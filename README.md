@@ -1,0 +1,2 @@
+# 3D-Audio-Perception-
+This project will be investigating the hypothesis that individuals perceive audio differently through the creation of a 3D sound game. Users between the ages of 20-60 will be asked to participate by interacting in a 3D world and listening to a series of audio sounds ranging from those found in nature to synthetic ones and asked to pinpoint the sound source. Data will be collected to examine the accuracy of the user’s positionings. To add complexity, visuals will be added to confuse users through the use of cross-modal perception.
