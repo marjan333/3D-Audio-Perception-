@@ -3,7 +3,17 @@ guid: ed7caf9fb66c633459ef7cc8b25b8eca
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boli
+    second: {fileID: 2100000, guid: 2e1dc62840d0e9047a2bd04578397290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qita
+    second: {fileID: 2100000, guid: 87238ad6485997643b1b99f693490ab2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
