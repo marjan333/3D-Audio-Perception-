@@ -3394,10 +3394,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8460575607684213499, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
+    - target: {fileID: -7993329507210199552, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
+    - target: {fileID: -5929048551879597490, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
     - target: {fileID: 919132149155446097, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
       propertyPath: m_Name
       value: European Cabinet
       objectReference: {fileID: 0}
+    - target: {fileID: 2726311442787078589, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
+    - target: {fileID: 4322949517754209994, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
+    - target: {fileID: 6173297861700609441, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
+    - target: {fileID: 6563255986377238630, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96ba52eb4a736b74aa1818209154b613, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed7caf9fb66c633459ef7cc8b25b8eca, type: 3}
 --- !u!1001 &1354208310
