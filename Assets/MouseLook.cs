@@ -9,9 +9,10 @@ public class MouseLook : MonoBehaviour
     public float horizontalSpeed = 1f;
     // vertical rotation speed
     public float verticalSpeed = 1f;
-    private float xRotation = 0.0f;
-    private float yRotation = 0.0f;
+    private float xRotation;
+    private float yRotation;
     private Camera cam;
+    public Transform playerBody;
 
     void Start()
     {
@@ -28,6 +29,7 @@ public class MouseLook : MonoBehaviour
         xRotation = Mathf.Clamp(xRotation, -90, 90);
 
         cam.transform.eulerAngles = new Vector3(xRotation, yRotation, 0.0f);
+        playerBody.Rotate(Vector3.up * mouseX);
     }
     
 }
